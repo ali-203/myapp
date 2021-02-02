@@ -39,19 +39,19 @@ function App() {
         <h1>Global Stats</h1>
         </div>
         <div className="three_div">
+        
+        <div  className="total_trx">
         <h1>0</h1>
         <h2>Total Invested TRX</h2>
-        <div className="total_trx">
-        <h1>0</h1>
-        <h2>Total Invested TRX</h2>
-            <h1>0</h1>
-            <h2>Total Investors</h2>
+          
         </div>
         <div className="total_invested">
-            <h1>0</h1>
-            <h2>Total Dividends</h2>
+        <h1>0</h1>
+            <h2>Total Investors</h2>
         </div>
-        <div className="total_dividen"></div>
+        <div className="total_dividen">
+        <h1>0</h1>
+            <h2>Total Dividends</h2></div>
         
         </div>
 
