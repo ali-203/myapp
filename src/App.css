@@ -118,10 +118,9 @@ body{
 
 .three_div {
   text-align: center;
-  text-align: center;
-  margin-top: 30px;
+  margin-top: 60px;
   display: flex;
-  padding-bottom: 80%;
+  padding-bottom: 40%;
   justify-content: space-between;
   justify-content: space-around;
   
