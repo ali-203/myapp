@@ -1,0 +1,121 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+  
+.logo_img {
+  padding-left: 14%;
+    width: 35%;
+    height: 15%;
+    padding-top: 22%;
+}
+.image_money {
+  margin-top: 35%;
+  padding-right: 50px;
+  font-size: large;
+}
+.main{  
+  display: flex;
+}
+  .decentrlized {
+      margin-top: 20%;
+    margin-left: 130px;
+    
+    
+  }
+  .contrct {
+    margin-left: 35%;
+    margin-top: auto;
+    font-size: 10px;
+
+  }
+  .smrt{
+    margin-right: 10%;
+    font-size: 10px;
+  }
+  .best{
+      color: red;
+      font-size: 50px;
+  }
+  .community{
+    color: black;
+      font-size: 50px;
+  }
+  .verified {
+      color: red;
+      font-size: 40px;
+  }
+  .daily{
+      color: black;
+      font-size: 40px;
+  }
+  .smart {
+    color: black;
+    margin-left: 130px;
+    margin-top: 15%;
+  }
+  
+  .button{
+    margin-left: 130px;
+
+  }
+  .vrtl{
+      border: 3px solid red;
+      background-color: red;
+      border-radius: 2px;
+      width: 30%;
+      margin-left: 10%;
+  }
+  .vrtl2{
+    border-radius: 2px;
+    border: 3px solid red;
+    width: 30%;
+    background-color: red;
+  }
+  .bi {
+      margin-left: 20%;
+      font-weight: bold;
+      font-size: 20px;
+  }
+  .tron {
+    margin-left: 13%;
+    font-weight: bold;
+    font-size: 20px;
+  }
+  .button_div{
+  margin-left: 110px;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  padding-bottom: 30%;
+}
+.tele{
+    background-color: skyblue;
+    border-radius: 10px;
+    width: 25%;
+    margin-left: 15px;
+    height: 80px;
+}
+.smart_contract {
+    background-color: palevioletred;
+    width: 25%;
+    height: 80px;
+    border-radius: 10px;
+}
+
+.main2 {
+    background-color: black;
+    width: 100%;
+    height: 100%;
+    color: red;
+}
+.global {
+  text-align: center;
+  padding-top: 25px;
+  font-family: sans-serif;
+}
+
+.three_div {
+  display: flex;
+  justify-content: space-between;
+}
