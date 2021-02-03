@@ -130,7 +130,7 @@ body{
   border-radius: 4px;
   height: 240px;
   width: 30%;
-  background-color: gray;
+  background-color:#212529;
 
 
 }
@@ -138,13 +138,13 @@ body{
   border-radius: 4px;
   height: 240px;
   width: 30%;
-  background-color: gray;
+  background-color:#212529;
 }
 .total_dividen{
   border-radius: 4px;
   height: 240px;
   width: 30%;
-  background-color:gray;
+  background-color:#212529;
 }
 .inner_trx{
   
@@ -157,5 +157,12 @@ body{
   margin-top: 16%;
     font-size: 24px;
     color: lightgreen;
+
+}
+.inner_divide{
+  margin-top: 16%;
+  font-size: 24px;
+  color: lightgreen;
+  color: yellow;
 
 }

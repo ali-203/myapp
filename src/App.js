@@ -54,8 +54,11 @@ function App() {
         </div>
         </div>
         <div className="total_dividen">
+        <div className="inner_divide">
         <h1>0</h1>
-            <h2>Total Dividends</h2></div>
+            <h2>Total Dividends</h2>
+            </div>
+            </div>
         
         </div>
 
