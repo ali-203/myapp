@@ -104,10 +104,8 @@ body{
 }
 
 .main2 {
-  
+  height: 20%;
     background-color: black;
-    width: 100%;
-    height: 100%;
     color: red;
 }
 .global {
@@ -117,17 +115,31 @@ body{
 }
 
 .three_div {
+  padding-left: 86px;
   text-align: center;
   margin-top: 60px;
   display: flex;
   padding-bottom: 40%;
-  justify-content: space-between;
   justify-content: space-around;
+  padding-right: 88px;
+  
   
 }
 
 .total_trx {
-background-color: gray;
+  height: 220px;
+  width: 28%;
+  background-color: gray;
 
 
+}
+.total_invested {
+  height: 220px;
+  width: 28%;
+  background-color: gray;
+}
+.total_dividen{
+  height: 220px;
+  width: 28%;
+  background-color: gray;
 }
