@@ -1,6 +1,8 @@
 body{
+
   margin: 0;
   padding: 0;
+  
 }
   
 .logo_img {
@@ -16,6 +18,7 @@ body{
 }
 .main{  
   display: flex;
+  
 }
   .decentrlized {
       margin-top: 20%;
@@ -105,7 +108,7 @@ body{
 
 .main2 {
   height: 20%;
-    background-color:black;
+  background-color: #111113;
     color: red;
 }
 .global {
