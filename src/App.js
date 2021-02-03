@@ -48,8 +48,10 @@ function App() {
         </div>
         <div className="total_invested">
 
+<div className="inner_investor">
         <h1>0</h1>
             <h2>Total Investors</h2>
+        </div>
         </div>
         <div className="total_dividen">
         <h1>0</h1>
