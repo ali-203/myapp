@@ -40,12 +40,14 @@ function App() {
         </div>
         <div className="three_div">
         
-        <div  className="total_trx">
+        <div className="total_trx">
+        <div className="inner_trx">
         <h1>0</h1>
         <h2>Total Invested TRX</h2>
-          
+        </div>
         </div>
         <div className="total_invested">
+
         <h1>0</h1>
             <h2>Total Investors</h2>
         </div>

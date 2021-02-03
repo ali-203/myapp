@@ -105,7 +105,7 @@ body{
 
 .main2 {
   height: 20%;
-    background-color: black;
+    background-color:black;
     color: red;
 }
 .global {
@@ -115,31 +115,41 @@ body{
 }
 
 .three_div {
-  padding-left: 86px;
+  padding-left: 110px;
   text-align: center;
   margin-top: 60px;
   display: flex;
   padding-bottom: 40%;
   justify-content: space-around;
-  padding-right: 88px;
+  padding-right: 110px;
   
   
 }
 
 .total_trx {
-  height: 220px;
-  width: 28%;
+  border-radius: 4px;
+  height: 240px;
+  width: 30%;
   background-color: gray;
 
 
 }
 .total_invested {
-  height: 220px;
-  width: 28%;
+  border-radius: 4px;
+  height: 240px;
+  width: 30%;
   background-color: gray;
 }
 .total_dividen{
-  height: 220px;
-  width: 28%;
-  background-color: gray;
+  border-radius: 4px;
+  height: 240px;
+  width: 30%;
+  background-color:gray;
+}
+.inner_trx{
+  
+  margin-top: 16%;
+    font-size: 24px;
+    color: cyan
+
 }
