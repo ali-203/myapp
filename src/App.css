@@ -17,6 +17,7 @@ body{
   font-size: large;
 }
 .main{  
+  
   display: flex;
   
 }
@@ -167,5 +168,11 @@ body{
   font-size: 24px;
   color: lightgreen;
   color: yellow;
+
+}
+
+.forth_div {
+ background-color: blue;
+  
 
 }
