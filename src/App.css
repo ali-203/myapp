@@ -123,7 +123,6 @@ body{
   text-align: center;
   margin-top: 60px;
   display: flex;
-  padding-bottom: 40%;
   justify-content: space-around;
   padding-right: 110px;
   
@@ -172,7 +171,17 @@ body{
 }
 
 .forth_div {
- background-color: blue;
-  
+  padding-top: 1%;
+  margin-top: 3%;
+  color: black;
+  margin-left: 8%;
+    padding-left: 8%;
+    background-color:#212529;
+    width: 30%;
+    padding-bottom: 6%;
+
+}
+.daily_return h1 {
+  color: rgb(187, 64, 64);
 
 }

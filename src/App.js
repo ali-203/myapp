@@ -66,9 +66,9 @@ function App() {
                     </div>
 
                 </div>
-
-            </div>
-            <div className="forth_div">
+                <div className="forth_div">
+                <div className="daily_return">
+                
             <h1>18.28% Daily Returns</h1>
             <p>128% In 7 Days</p>
             <p>Updates Every Seconds</p>
@@ -77,9 +77,13 @@ function App() {
             <div className="forth-button">
                 <button>invest</button>
                 <p>1-3 TRX transaction fee will be applied</p>
+                </div>
             </div>
             
             </div>
+
+            </div>
+            
         </div>
 
 
