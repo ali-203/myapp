@@ -108,6 +108,8 @@ body{
 }
 
 .main2 {
+  
+ padding-bottom: 20%;
   height: 20%;
   background-color: #111113;
     color: red;
@@ -171,6 +173,7 @@ body{
 }
 
 .forth_div {
+  border-radius: 6px;
   padding-top: 1%;
   margin-top: 3%;
   color: black;
@@ -178,7 +181,7 @@ body{
     padding-left: 8%;
     background-color:#212529;
     width: 30%;
-    padding-bottom: 6%;
+    padding-bottom: 2%;
 
 }
 .daily_return h1 {
@@ -191,6 +194,7 @@ body{
     color: darkgray;
     font-size: 19px;
   color: darkgray;
+  margin-top: 20px;
 }
 .daily_return input {
   font-size: large;
@@ -198,18 +202,31 @@ body{
     width: 50%;
 }
 .forth-button {
-  margin-left: 7%;
-    width: 36%;
+  border-radius: 4px;
+  margin-left: 4%;
+    width: 43%;
     height: 51px;
     margin-top: 2%;
-  background-color: palegreen;
+  background-color: #28a745;
+  border-style: solid;
+  border-color: white;
 }
 .forth-button button {
   margin-left: 30%;
   margin-top: 8%;
   font-size: large;
+background-color:#28a745;
+  border: none;
   color: white;
+  
+  
+
 }
+.transaction {
+  color: gray;
+}
+
+
 
 
 
