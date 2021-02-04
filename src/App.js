@@ -77,8 +77,9 @@ function App() {
         
             <div className="forth-button">
                 <button>invest</button>
-                <p>1-3 TRX transaction fee will be applied</p>
                 </div>
+                <p>1-3 TRX transaction fee will be applied</p>
+                
             </div>
             
             </div>
