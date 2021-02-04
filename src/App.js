@@ -110,9 +110,9 @@ function App() {
             </div>
         
             </div>
-            {/* <div className="inves_nm">
+             <div className="inves_nm">
             <img src="investment.png"/>
-            </div> */}
+            </div> 
             </div>
             </div>
             

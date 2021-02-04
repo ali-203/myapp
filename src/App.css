@@ -280,8 +280,14 @@ color: gray;
     height: 170px;
     padding-top: 1%;
 }
+.six_div p {
+  color: gray;
+  font-size: larger;
 
-
-/* .last_img {
+}
+ .last_img {
   display: flex;
-} */
+} 
+.inves_nm {
+  margin-left: 6%;
+}
