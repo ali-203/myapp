@@ -91,10 +91,9 @@ function App() {
             <p>Total Investments: 0 TRX</p>
             <p>Available to withdraw( TRX )</p>
             <h5>Including Ref Rewards</h5>
-            <input type="text"></input>
-        
+            
             <div className="forth-button">
-                <button>invest</button>
+                <button>withdraw</button>
                 </div>
                 <div className="transaction">
                 <h3>1-3 TRX transaction fee will be applied</h3>
