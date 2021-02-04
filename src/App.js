@@ -84,15 +84,14 @@ function App() {
                 </div>
             </div>    
             </div>
-            <div className="forth_div">
-                <div className="daily_return">
+            <div className="fifth_div">
+                <div className="daily_divi">
                 
             <h1>Your Dividends</h1>
             <p>Total Investments: 0 TRX</p>
             <p>Available to withdraw( TRX )</p>
             <h5>Including Ref Rewards</h5>
-            
-            <div className="forth-button">
+            <div className="fifth-button">
                 <button>withdraw</button>
                 </div>
                 <div className="transaction">

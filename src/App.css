@@ -179,7 +179,7 @@ body{
   margin-top: 3%;
   color: black;
   margin-left: 8%;
-    padding-left: 8%;
+    padding-left: 10%;
     background-color:#212529;
     width: 30%;
     
@@ -232,5 +232,11 @@ background-color:#28a745;
 .center_towdiv {
   display: flex;
 }
-
-
+.fifth_div{
+  margin-top: 3%;
+  background-color: #212529;
+  margin-left: 5%;
+  width: 39%;
+  margin-bottom: 3%;
+  border-radius: 4px;
+}
