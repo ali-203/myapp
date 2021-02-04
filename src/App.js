@@ -74,6 +74,7 @@ function App() {
             <p>Updates Every Seconds</p>
             <p>Wallet Balance: TRX</p>
             <input type="text"></input>
+        
             <div className="forth-button">
                 <button>invest</button>
                 <p>1-3 TRX transaction fee will be applied</p>
