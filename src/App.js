@@ -82,27 +82,24 @@ function App() {
                 <h3>1-3 TRX transaction fee will be applied</h3>
                 </div>
             </div>
-            
-            </div>
-            <div className="fifth_div">
-                <div className="daily_return">
-                
-            <h1>18.28% Daily Returns</h1>
-            <p>128% In 7 Days</p>
-            <p>Updates Every Seconds</p>
-            <p>Wallet Balance: TRX</p>
-            <input type="text"></input>
         
-            <div className="forth-button">
-                <button>invest</button>
-                </div>
-                <div className="transaction">
-                <h3>1-3 TRX transaction fee will be applied</h3>
-                </div>
+            </div>
+            <div className="forth_div">
+                <div className="daily_return">
+               <div className="invest">
+            <h1>My Investments</h1>
+            </div> 
+            <p>My total investment 0 TRX</p>
+            <p>Total Payouts so far TRX</p>
+            
+            
+            
+        
+                
+            </div>
+        
             </div>
             
-            </div>
-
             </div>
             
         </div>

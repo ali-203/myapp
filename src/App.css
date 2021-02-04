@@ -181,7 +181,7 @@ body{
     padding-left: 8%;
     background-color:#212529;
     width: 30%;
-    padding-bottom: 2%;
+    
 
 }
 .daily_return h1 {
@@ -218,14 +218,19 @@ body{
 background-color:#28a745;
   border: none;
   color: white;
-  
-  
-
 }
 .transaction {
   color: gray;
 }
 
+
+.daily_return{
+padding-bottom: 10px
+}
+
+.invest {
+  margin-left: 10%;
+}
 
 
 
