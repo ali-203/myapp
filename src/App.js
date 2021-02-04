@@ -114,7 +114,9 @@ function App() {
             </div>
         
             </div>
-            <img className="inves_nm" src="investment.png"/>
+            <div className="inves_nm">
+            <img src="investment.png"/>
+            </div>
             </div>
             </div>
             
