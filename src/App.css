@@ -108,7 +108,7 @@ body{
 }
 
 .main2 {
-  
+
  padding-bottom: 20%;
   height: 20%;
   background-color: #111113;
@@ -173,6 +173,7 @@ body{
 }
 
 .forth_div {
+
   border-radius: 6px;
   padding-top: 1%;
   margin-top: 3%;
@@ -223,16 +224,13 @@ background-color:#28a745;
   color: gray;
 }
 
-
-.daily_return{
-padding-bottom: 10px
-}
-
 .invest {
   margin-left: 10%;
 }
 
 
-
+.center_towdiv {
+  display: flex;
+}
 
 

@@ -66,6 +66,7 @@ function App() {
                     </div>
 
                 </div>
+                <div className="center_towdiv">
                 <div className="forth_div">
                 <div className="daily_return">
                 
@@ -81,9 +82,27 @@ function App() {
                 <div className="transaction">
                 <h3>1-3 TRX transaction fee will be applied</h3>
                 </div>
+            </div>    
             </div>
+            <div className="forth_div">
+                <div className="daily_return">
+                
+            <h1>Your Dividends</h1>
+            <p>Total Investments: 0 TRX</p>
+            <p>Available to withdraw( TRX )</p>
+            <h5>Including Ref Rewards</h5>
+            <input type="text"></input>
         
+            <div className="forth-button">
+                <button>invest</button>
+                </div>
+                <div className="transaction">
+                <h3>1-3 TRX transaction fee will be applied</h3>
+                </div>
+            </div>    
             </div>
+            </div>
+            
             <div className="forth_div">
                 <div className="daily_return">
                <div className="invest">
@@ -93,9 +112,7 @@ function App() {
             <p>Total Payouts so far TRX</p>
             
             
-            
-        
-                
+      
             </div>
         
             </div>
