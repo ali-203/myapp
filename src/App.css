@@ -224,11 +224,6 @@ background-color:#28a745;
   color: gray;
 }
 
-.invest {
-  margin-left: 10%;
-}
-
-
 .center_towdiv {
   display: flex;
 }
@@ -274,10 +269,19 @@ color: gray;
      color: white;
      font-size: larger;
 }
+.six_div{
+  text-align: center;
+    margin-top: 1%;
+    background-color: #212529;
+    margin-left: 8%;
+    width: 40%;
+    margin-bottom: 0%;
+    border-radius: 4px;
+    height: 170px;
+    padding-top: 1%;
+}
 
-.forth_div{
-  padding-bottom: 1%;
-}
-.last_img {
+
+/* .last_img {
   display: flex;
-}
+} */

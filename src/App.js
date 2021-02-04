@@ -101,22 +101,18 @@ function App() {
             </div>
             </div>
             <div className="last_img">
-            <div className="forth_div">
-                <div className="daily_return">
-               <div className="invest">
-            <h1>My Investments</h1>
-            </div> 
+            <div className="six_div">
+                <div className="daily_invst">
+            <h1>My Investments</h1>           
             <p>My total investment 0 TRX</p>
             <p>Total Payouts so far TRX</p>
-            
-            
-      
+             
             </div>
         
             </div>
-            <div className="inves_nm">
+            {/* <div className="inves_nm">
             <img src="investment.png"/>
-            </div>
+            </div> */}
             </div>
             </div>
             
