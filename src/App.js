@@ -100,7 +100,7 @@ function App() {
             </div>    
             </div>
             </div>
-            
+            <div className="last_img">
             <div className="forth_div">
                 <div className="daily_return">
                <div className="invest">
@@ -114,7 +114,8 @@ function App() {
             </div>
         
             </div>
-            
+            <img className="inves_nm" src="investment.png"/>
+            </div>
             </div>
             
         </div>

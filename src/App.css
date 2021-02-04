@@ -278,3 +278,6 @@ color: gray;
 .forth_div{
   padding-bottom: 1%;
 }
+.last_img {
+  display: flex;
+}
