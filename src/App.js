@@ -178,7 +178,15 @@ function App() {
             <p>All those who are invited to the fund by your 1st level referral become your 2nd level referrals and also bring you additional profit</p>
             </div>
             </div>
-
+            <div className="about-bi">
+                <h1>About Bi-Tron</h1>
+                <p>Bi-Tron is a tron based smart contract built on blockchain. It can not be edited or deleted and its autonomous operation can not be influenced or manipulated.</p>
+                <p>All dividends and income are automatically proccessed by the smart contracp</p>
+            </div>
+            <div className="bitr">
+            <h1>Bi-Tron</h1>
+            </div>
+            <p>Copyright © All rights reserved | Bi-Tron</p>
             </div>  
         </div>
 

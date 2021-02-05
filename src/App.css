@@ -421,6 +421,24 @@ padding-top: 10px;
 .four_card h1 {
   font-family: monospace;
   color: lightcoral; 
+}
+
+.about-bi {
+  padding-top: 4%;
+  text-align: center;
+  font-family: system-ui;
+}
+.about-bi p {
+  color: gray;
+
+}
+.about-bi h1{
+  color: white;
+}
+.bitr {
+  font-size: xx-large;
+  color: lightcoral; 
+  text-align: center;
 
 }
 
