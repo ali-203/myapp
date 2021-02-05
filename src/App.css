@@ -415,13 +415,16 @@ padding-top: 10px;
     border-radius: 6px 6px 6px 6px;
 }
 .four_card {
+  padding-top: 1%;
   display: flex;
+  
 }
 .four_card h1 {
   font-family: monospace;
   color: lightcoral; 
 
 }
+
 
 
 

@@ -168,6 +168,17 @@ function App() {
             <p>Bi-Tron smart contract generates 18.28% daily dividends untill 7 days based on your investment and distribute your dividends to your balance every second</p>
             </div>
             </div>
+            <div className="four_card">
+            <div className= "crypto_wallet">
+            <h1>CRYPTO WALLET</h1>
+            <p>To start investing users must be logged in to a crypto wallet that supports Tron (TRX). The most popular Tron wallets that have the most users are TronLink, TronWallet</p>
+            </div>
+            <div className="smart-contract">
+            <h1>SMART CONTRACT</h1>
+            <p>Bi-Tron smart contract generates 18.28% daily dividends untill 7 days based on your investment and distribute your dividends to your balance every second</p>
+            </div>
+            </div>
+
             </div>  
         </div>
 
