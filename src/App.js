@@ -126,6 +126,13 @@ function App() {
                 <h2>Total referral payout:</h2>
                 <img src="tron.png" width="2%" height="2%"/>
                 </div>
+                <div className="level_3">
+                <div className="reward_10">
+                </div>
+                <div className="reward_6"></div>
+                <div className="reward-3"></div>
+
+                </div>
                 
             </div>
             
