@@ -128,9 +128,17 @@ function App() {
                 </div>
                 <div className="level_3">
                 <div className="reward_10">
+                <h2>Level 1</h2>
+                <h2>Reward 10%</h2>
                 </div>
-                <div className="reward_6"></div>
-                <div className="reward-3"></div>
+                <div className="reward_6">
+                    <h2>Level 2</h2>
+                    <h2>Reward 6%</h2>
+                </div>
+                <div className="reward-5">
+                    <div>Level 3</div>
+                    <div>Reward 3%</div>
+                </div>
 
                 </div>
                 

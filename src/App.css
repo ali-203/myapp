@@ -315,3 +315,19 @@ color: gray;
   margin-top: 2%;
   margin-left: 2%
 }
+.level_3{
+text-align: center;
+margin-top: 60px;
+display: flex;
+justify-content: space-around;
+background-color: gray;
+}
+.reward_10 {
+  border-radius: 6%;
+  margin-right: auto;
+  border-style: solid;
+  border: 2px solid #007bff;
+  width: 31%;
+  margin-left: 3%;
+}
+
