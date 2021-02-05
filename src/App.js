@@ -33,12 +33,6 @@ function App() {
  
 
              </div>
-
-
-
-
-
-
             <div className="main2">
                 <div className="global">
                     <h1>Global Stats</h1>
@@ -140,7 +134,12 @@ function App() {
                     <div><h2>Reward 3%</h2></div>
                 </div>
 
-                </div>
+                </div>  
+                <div className="inpt_cpy">
+                <input type="text" />
+                <p></p>
+
+                </div>            
                 
             </div>
             
