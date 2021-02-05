@@ -136,8 +136,8 @@ function App() {
                     <h2>Reward 6%</h2>
                 </div>
                 <div className="reward-5">
-                    <div>Level 3</div>
-                    <div>Reward 3%</div>
+                    <div><h2>Level 3</h2></div>
+                    <div><h2>Reward 3%</h2></div>
                 </div>
 
                 </div>
