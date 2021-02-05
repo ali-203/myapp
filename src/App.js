@@ -138,7 +138,6 @@ function App() {
                 <div className="inpt_cpy">  
                 <input type="text" name="text" />
                 <h3>Copy</h3>
-                
 
                 </div>            
                 
