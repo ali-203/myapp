@@ -114,6 +114,18 @@ function App() {
             <img src="investment.png"/>
             </div> 
             </div>
+
+            <div className="account_select">
+            <h4>Account Selected:</h4>
+           <h3> Minimum investment of 50 TRX to Activate referral link</h3>
+            </div>
+            <div className="Referra_Status">
+                <h1>Referral Status</h1>
+                </div>
+                <div className="referal">
+                <h2>Total referral payout:</h2>
+                <img src="tron.png" width="2%" height="2%"/>
+                </div>
             </div>
             
         </div>

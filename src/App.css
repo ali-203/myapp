@@ -291,3 +291,22 @@ color: gray;
 .inves_nm {
   margin-left: 6%;
 }
+.account_select {
+  text-align: center;
+  padding-top: 8%;
+  color: gray;
+  font-size: large;
+}
+.Referra_Status {
+  text-align: center;
+  color: lightcoral; ;
+}
+.referal {
+  display: flex;
+  padding-left: 44%;
+    display: flex;
+}
+.referal img{
+  margin-top: 2%;
+  margin-left: 2%
+}
