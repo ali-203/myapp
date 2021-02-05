@@ -170,12 +170,12 @@ function App() {
             </div>
             <div className="four_card">
             <div className= "crypto_wallet">
-            <h1>CRYPTO WALLET</h1>
-            <p>To start investing users must be logged in to a crypto wallet that supports Tron (TRX). The most popular Tron wallets that have the most users are TronLink, TronWallet</p>
+            <h1>INVESTMENT PROFIT</h1>
+            <p>The profit (dividends) accrued to your account on a daily basis and in real-time. You can withdraw the dividends at any time</p>
             </div>
             <div className="smart-contract">
-            <h1>SMART CONTRACT</h1>
-            <p>Bi-Tron smart contract generates 18.28% daily dividends untill 7 days based on your investment and distribute your dividends to your balance every second</p>
+            <h1>Referral Reward</h1>
+            <p>All those who are invited to the fund by your 1st level referral become your 2nd level referrals and also bring you additional profit</p>
             </div>
             </div>
 
