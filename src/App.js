@@ -146,8 +146,13 @@ function App() {
                     <p>Minimum investment of 50 TRX to Activate referral link</p>
                     <p>Referral Rewards will be transferred to your wallet directly</p>
                 </div>
-
+                <div className="link_head">
+                <h1>How it Works</h1>
+                <a href="http://bi-tron.com/" className="href_pdf"> PDF GUIDE </a>
                 
+                </div>
+
+
             </div>
             
         </div>

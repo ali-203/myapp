@@ -112,7 +112,7 @@ body{
  padding-bottom: 20%;
   height: 20%;
   background-color: #111113;
-    color: red;
+  color: lightcoral;
 }
 .global {
   text-align: center;
@@ -185,9 +185,9 @@ body{
     
 
 }
-.daily_return h1 {
+.daily_invst h1 {
   font-family: sans-serif;
-  color: rgb(187, 64, 64);
+  color: lightcoral;
 
 }
 .daily_return p {
@@ -203,14 +203,14 @@ body{
     width: 50%;
 }
 .forth-button {
-  border-radius: 4px;
+  border-radius: 2px;
   margin-left: 4%;
-    width: 43%;
-    height: 51px;
-    margin-top: 2%;
+  width: 43%;
+  height: 51px;
+  margin-top: 2%;
+  border: 3px solid white;
   background-color: #28a745;
-  border-style: solid;
-  border-color: white;
+ 
 }
 .forth-button button {
   margin-left: 30%;
@@ -252,14 +252,13 @@ background-color:#28a745;
 color: gray;
 }
 .fifth-button {
+  border: 3px solid white;
   border-radius: 4px;
   margin-left: 34%;
   width: 33%;
   height: 48px;
   margin-top: 8%;
   background-color: red;
-  border-style: solid;
-  border-color: white
 }
 .fifth-button button{
      
@@ -371,7 +370,18 @@ justify-content: space-around;
   font-size: larger;
   text-align: center;
   color: gray;
+  
 }
 
+.link_head {
+  font-size: large;
+  text-align: center;
+  color: lightcoral; 
+
+}
+.href_pdf {
+  font-size:x-large;
+  color: lightcoral; 
+}
 
 
