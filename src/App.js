@@ -135,9 +135,10 @@ function App() {
                 </div>
 
                 </div>  
-                <div className="inpt_cpy">
-                <input type="text" />
-                <p></p>
+                <div className="inpt_cpy">  
+                <input type="text" name="text" />
+                <h3>Copy</h3>
+                
 
                 </div>            
                 
