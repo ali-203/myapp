@@ -374,6 +374,8 @@ justify-content: space-around;
 }
 
 .link_head {
+  
+padding-top: 10px;
   font-size: large;
   text-align: center;
   color: lightcoral; 
@@ -382,6 +384,42 @@ justify-content: space-around;
 .href_pdf {
   font-size:x-large;
   color: lightcoral; 
+}
+.bi_tron {
+  text-align: center;
+  padding-top: 4%;
+  color: gray;
+}
+.daily_return h1{
+  color: lightcoral; 
+}
+.crypto_wallet{
+  padding-top: 1%;
+    text-align: center;
+    margin-left: 11%;
+    width: 38%;
+    color: gray;
+    background-color:#212529;
+    padding-bottom: 8%;
+    font: message-box;
+    border-radius: 4px 4px 4px 4px solid;
+}
+.smart-contract {
+  font: message-box;
+  padding-top: 1%;
+  text-align: center;
+  width: 37%;
+  color: gray;
+  background-color:#212529;
+  margin-left: 2%;
+  border-radius: 4px 4px 4px 4px solid;
+}
+.four_card {
+  display: flex;
+}
+.four_card p {
+  
+
 }
 
 
