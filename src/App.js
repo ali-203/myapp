@@ -137,9 +137,16 @@ function App() {
                 </div>  
                 <div className="inpt_cpy">  
                 <input type="text" name="text" />
+                <div className="cpy-hed">
                 <h3>Copy</h3>
+                </div>
 
-                </div>            
+                </div>  
+                <div className="two_para">
+                    <p>Minimum investment of 50 TRX to Activate referral link</p>
+                    <p>Referral Rewards will be transferred to your wallet directly</p>
+                </div>
+
                 
             </div>
             

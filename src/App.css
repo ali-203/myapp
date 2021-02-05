@@ -354,9 +354,23 @@ justify-content: space-around;
 }
 .inpt_cpy input {
   background-color: #111113;
-  width: 65%;
+  width: 68%;
   border-radius: 4px 4px 4px 4px;
   border:2px solid lightgoldenrodyellow;
+}
+.cpy-hed {
+  text-align: center;
+  width: 6%;
+  border-radius: 4px 4px 4px 4px;
+  border:2px solid lightgoldenrodyellow;
+  background-color:#111113;
+ color: lightcoral;  
+}
+.two_para {
+  margin-top: 2%;
+  font-size: larger;
+  text-align: center;
+  color: gray;
 }
 
 
