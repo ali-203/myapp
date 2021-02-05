@@ -300,11 +300,15 @@ color: gray;
 .Referra_Status {
   text-align: center;
   color: lightcoral; ;
+  padding-top: 2%;
 }
 .referal {
+  font-size: unset;
   display: flex;
   padding-left: 44%;
-    display: flex;
+  color: gray;
+  
+    
 }
 .referal img{
   margin-top: 2%;
