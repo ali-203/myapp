@@ -436,10 +436,15 @@ padding-top: 10px;
   color: white;
 }
 .bitr {
-  font-size: xx-large;
+  font-size: x-large;
   color: lightcoral; 
   text-align: center;
 
+}
+.copy_right {
+  font-size: x-large;
+  color: white;
+  text-align: center;
 }
 
 

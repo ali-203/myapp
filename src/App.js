@@ -186,7 +186,9 @@ function App() {
             <div className="bitr">
             <h1>Bi-Tron</h1>
             </div>
+            <div className="copy_right">
             <p>Copyright © All rights reserved | Bi-Tron</p>
+            </div>
             </div>  
         </div>
 
