@@ -174,7 +174,6 @@ body{
 }
 
 .forth_div {
-
   border-radius: 6px;
   padding-top: 1%;
   margin-top: 3%;
@@ -473,6 +472,7 @@ padding-top: 10px;
   background-color: #111113;
 }
 .crypto_profit {
+  border-radius: 6px 6px 6px 6px;
   margin-top: 10px;
   margin-right: 1%;
   background-color: #212529;
@@ -480,6 +480,7 @@ padding-top: 10px;
   margin-left: 14%;
 }
 .smart-rewrd {
+  border-radius: 6px 6px 6px 6px;
   margin-top: 10px;
   background-color: #212529;
   width: 35%;
