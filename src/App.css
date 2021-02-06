@@ -122,7 +122,7 @@ body{
 }
 
 .three_div {
-  padding-left: 110px;
+  padding-left: 118px;
   text-align: center;
   margin-top: 60px;
   display: flex;
@@ -218,7 +218,7 @@ body{
 }
 .forth-button button {
   margin-left: 30%;
-  margin-top: 8%;
+  margin-top: 6%;
   font-size: large;
 background-color:#28a745;
   border: none;
@@ -227,7 +227,6 @@ background-color:#28a745;
 .transaction {
   color: gray;
 }
-
 .center_towdiv {
   display: flex;
 }
