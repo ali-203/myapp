@@ -4,12 +4,13 @@ import "./App.css";
 
 
 
+
 function App() {
     return (
         <div className="full_main">
-
+        
             <div className="main"> 
-
+        
 
                  <div className="bitron_main">
                     <img className="logo_img" src="logo.png" />
@@ -18,7 +19,7 @@ function App() {
                         <h2 className="best">BEST DECENTRALIZED</h2>
                         <h2 className="community">COMMUNITY SUPPORT FUND ON TRON BLOCKCHAIN</h2>
                         <h2 className="verified">100% VERIFIED SMART CONTRACT</h2>
-                        <h3 className="daily">18.28% Daily ROI128% IN 7 DAYS</h3>
+                        <h3 className="daily">18.28% Daily ROI128% <br /> IN 7 DAYS</h3>
                     </div>
                     <div className="button_div">
                         <button className="tele">TELEGRAM</button>
@@ -30,9 +31,8 @@ function App() {
                     <img src="money.png" />
 
                 </div>
- 
-
              </div>
+             
             <div className="main2">
                 <div className="global">
                     <h1>Global Stats</h1>
@@ -154,10 +154,7 @@ function App() {
 
                 <div className="bi_tron">
             <h3>The Bi-Tron smart contract has been designed to provide everyone with a defi support fund, fully based on the tron blockchain and smart contract<br /> technology</h3>
-
             </div>
-
-
             <div className="four_card">
             <div className= "crypto_wallet">
             <h1>CRYPTO WALLET</h1>
@@ -191,10 +188,6 @@ function App() {
             </div>
             </div>  
         </div>
-
-
-
-
     )
 }
 

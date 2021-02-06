@@ -12,12 +12,10 @@ body{
     padding-top: 22%;
 }
 .image_money {
-  margin-top: 35%;
-  padding-right: 50px;
-  font-size: large;
+  margin-top: 29%;
+  padding-right: 255px;
 }
 .main{  
-  
   display: flex;
   
 }
@@ -39,15 +37,15 @@ body{
   }
   .best{
       color: red;
-      font-size: 50px;
+      font-size: 40px;
   }
   .community{
     color: black;
-      font-size: 50px;
+      font-size: 37px;
   }
   .verified {
       color: red;
-      font-size: 40px;
+      font-size: 38px;
   }
   .daily{
       color: black;
@@ -87,11 +85,12 @@ body{
     font-size: 20px;
   }
   .button_div{
-  margin-left: 110px;
-  color: white;
-  font-size: 16px;
-  cursor: pointer;
-  padding-bottom: 30%;
+    padding-left: 13%;
+    width: 116%;
+    height: -10%;
+    color: white;
+    cursor: pointer;
+    padding-bottom: 30%;
 }
 .tele{
     background-color: skyblue;
@@ -99,17 +98,19 @@ body{
     width: 25%;
     margin-left: 15px;
     height: 80px;
+    font-weight: 900;
 }
 .smart_contract {
     background-color: palevioletred;
     width: 25%;
     height: 80px;
     border-radius: 10px;
+    font-weight: 900;
 }
 
 .main2 {
 
- padding-bottom: 20%;
+ padding-bottom: 2%;
   height: 20%;
   background-color: #111113;
   color: lightcoral;
@@ -446,6 +447,7 @@ padding-top: 10px;
   color: white;
   text-align: center;
 }
+
 
 
 
