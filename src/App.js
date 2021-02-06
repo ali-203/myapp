@@ -168,12 +168,12 @@ function App() {
             <p>Bi-Tron smart contract generates 18.28% daily dividends untill 7 days based on your investment and distribute your dividends to your balance every second</p>
             </div>
             </div>
-            <div className="four_card">
-            <div className= "crypto_wallet">
+            <div className="four_invest">
+            <div className= "crypto_profit">
             <h1>INVESTMENT PROFIT</h1>
             <p>The profit (dividends) accrued to your account on a daily basis and in real-time. You can withdraw the dividends at any time</p>
             </div>
-            <div className="smart-contract">
+            <div className="smart-rewrd">
             <h1>Referral Reward</h1>
             <p>All those who are invited to the fund by your 1st level referral become your 2nd level referrals and also bring you additional profit</p>
             </div>

@@ -469,9 +469,45 @@ padding-top: 10px;
   text-align: center;
   font-weight: 500;
 }
-
-
-
-
+.four_invest {
+  display: flex;
+  background-color: #111113;
+}
+.crypto_profit {
+  margin-top: 10px;
+  margin-right: 1%;
+  background-color: #212529;
+  width: 35%;
+  margin-left: 14%;
+}
+.smart-rewrd {
+  margin-top: 10px;
+  height: 200px;
+  padding-left: 0%;
+  margin-right: 1%;
+  background-color: #212529;
+  width: 35%;
+  margin-left: 1%;
+}
+.crypto_profit h1{
+  text-align: center;
+  font-family: system-ui;
+}
+.crypto_profit p {
+  padding-right: 1%;
+    font-size: x-large;
+    padding-left: 6%;
+    color: gray;
+}
+.smart-rewrd h1 {
+  text-align: center;
+  font-family: system-ui;
+}
+.smart-rewrd p{
+  padding-right: 1%;
+  font-size: x-large;
+  padding-left: 6%;
+  color: gray;
+}
 
 
