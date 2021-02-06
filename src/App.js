@@ -68,8 +68,11 @@ function App() {
             <p>128% In 7 Days</p>
             <p>Updates Every Seconds</p>
             <p>Wallet Balance: TRX</p>
+            </div>
+            <div className="trx-put">
             <input type="text"></input>
-        
+            <h2>TRX</h2>
+            </div>
             <div className="forth-button">
                 <button>invest</button>
                 </div>
@@ -77,7 +80,7 @@ function App() {
                 <h3>1-3 TRX transaction fee will be applied</h3>
                 </div>
             </div>    
-            </div>
+            
             <div className="fifth_div">
                 <div className="daily_divi">
                 

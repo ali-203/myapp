@@ -86,7 +86,7 @@ body{
   }
   .button_div{
     padding-left: 13%;
-    width: 116%;
+    width: 106%;
     height: -10%;
     color: white;
     cursor: pointer;
@@ -183,13 +183,17 @@ body{
     padding-left: 10%;
     background-color:#212529;
     width: 30%;
-    
-
 }
 .daily_invst h1 {
   font-family: sans-serif;
   color: lightcoral;
+}
+.trx-put {
+  display: flex;
+}
 
+.trx p {
+  color: #007bff;
 }
 .daily_return p {
   padding-left: 16%;
@@ -440,12 +444,30 @@ padding-top: 10px;
   font-size: x-large;
   color: lightcoral; 
   text-align: center;
-
 }
 .copy_right {
   font-size: x-large;
   color: white;
   text-align: center;
+}
+.trx-put input {
+  border-radius: 6px 0px 0px 6px;
+    width: 50%;
+}
+.trx-put{
+  height: 14%;
+    display: flex;
+    width: 90%;
+}
+.trx-put h2 {
+  padding-top: 3%;
+  border-radius: 0px 6px 6px 0px;
+  margin-bottom: 0%;
+  background-color: lightgray;
+  margin-top: 0%;
+  width: 14%;
+  text-align: center;
+  font-weight: 500;
 }
 
 
