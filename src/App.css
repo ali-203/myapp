@@ -27,6 +27,47 @@ body{
     margin-top: 8%;
     margin-right: 8%;
 }
+.decentrlized h3 {
+  font-family: auto;
+    color: #fc0254;
+
+}
+
+.decentrlized h2{
+  font-variant-east-asian: jis78;
+  color: white;
+  margin-top: 0%;
+}
+.decentrlized h4{
+  color: #e8505b;
+    font-size: larger;
+
+}
+.decentrlized p{
+font-size: xxx-large;
+    color: white
+}
+.tele_grm{
+  font-weight: 900;
+   border-radius: 6px 6px 6px 6px;
+  position: relative;
+  background: #033248;
+  top: 50px;
+  width: 30%;
+  height: 16%;
+
+}
+.smrtcntr {
+  font-weight: 900;
+  background: #bb4049;
+  border-radius: 6px 6px 6px 6px;
+  position: relative;
+    top: 50px;
+    width: 30%;
+    height: 16%;
+}
+
+
 
 .full_main {
 

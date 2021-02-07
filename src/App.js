@@ -11,15 +11,14 @@ function App() {
                     <div className="text_imag">
 
                     <div className="decentrlized">
-                        <h2>BEST DECENTRALIZED</h2>
+                        <h3>BEST DECENTRALIZED</h3>
                         <h2>COMMUNITY SUPPORT FUND ON TRON BLOCKCHAIN</h2>
-                        <h2>100% VERIFIED SMART CONTRACT</h2>
-                        <h3>18.28% Daily ROI128% IN 7 DAYS</h3>
+                        <h4>100% VERIFIED SMART CONT3ACT</h4>
+                        <p>18.28% Daily ROI<br/>128% IN 7 DA1YS</p>
+                
+                        <button className="tele_grm">TELEGRAM</button>
+                        <button className="smrtcntr">SMART CONTRACT</button>
                     
-                    <div className="button_div">
-                        <button>TELEGRAM</button>
-                        <button>SMART CONTRACT</button>
-                    </div>
                     </div>
                     <div className="image_money">
                     <img src="money.png" />
