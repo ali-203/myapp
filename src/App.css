@@ -4,115 +4,37 @@ body{
   padding: 0;
   
 }
+.text_imag {
+  font-size: xxx-large;
+    display: flex;
+    padding-bottom: 10%;
+  
+}
   
 .logo_img {
-  padding-left: 14%;
-    width: 35%;
-    height: 15%;
-    padding-top: 22%;
+  margin-top: 14%;
+    padding-left: 10%;
+    width: 22%;
+}
+
+.decentrlized {
+  font-size: xx-large;
+  margin-top: 8%;
+  margin-left: 10%;
 }
 .image_money {
-  margin-top: 29%;
-  padding-right: 255px;
-}
-.main{  
-  display: flex;
-  
-}
-  .decentrlized {
-      margin-top: 20%;
-    margin-left: 130px;
-    
-    
-  }
-  .contrct {
-    margin-left: 35%;
-    margin-top: auto;
-    font-size: 10px;
-
-  }
-  .smrt{
-    margin-right: 10%;
-    font-size: 10px;
-  }
-  .best{
-      color: red;
-      font-size: 40px;
-  }
-  .community{
-    color: black;
-      font-size: 37px;
-  }
-  .verified {
-      color: red;
-      font-size: 38px;
-  }
-  .daily{
-      color: black;
-      font-size: 40px;
-  }
-  .smart {
-    color: black;
-    margin-left: 130px;
-    margin-top: 15%;
-  }
-  
-  .button{
-    margin-left: 130px;
-
-  }
-  .vrtl{
-      border: 3px solid red;
-      background-color: red;
-      border-radius: 2px;
-      width: 30%;
-      margin-left: 10%;
-  }
-  .vrtl2{
-    border-radius: 2px;
-    border: 3px solid red;
-    width: 30%;
-    background-color: red;
-  }
-  .bi {
-      margin-left: 20%;
-      font-weight: bold;
-      font-size: 20px;
-  }
-  .tron {
-    margin-left: 13%;
-    font-weight: bold;
-    font-size: 20px;
-  }
-  .button_div{
-    padding-left: 13%;
-    width: 106%;
-    height: -10%;
-    color: white;
-    cursor: pointer;
-    padding-bottom: 30%;
-}
-.tele{
-    background-color: skyblue;
-    border-radius: 10px;
-    width: 25%;
-    margin-left: 15px;
-    height: 80px;
-    font-weight: 900;
-}
-.smart_contract {
-    background-color: palevioletred;
-    width: 25%;
-    height: 80px;
-    border-radius: 10px;
-    font-weight: 900;
+  margin-left: 0%;
+    margin-top: 8%;
+    margin-right: 8%;
 }
 
+.full_main {
+
+  background-color: #111113;
+}
 .main2 {
-
  padding-bottom: 2%;
   height: 20%;
-  background-color: #111113;
   color: lightcoral;
 }
 .global {
@@ -286,9 +208,12 @@ color: gray;
   font-size: larger;
 
 }
- .last_img {
-  display: flex;
-} 
+
+  .last_img {
+    display: flex;
+  } 
+
+
 .inves_nm {
   margin-left: 6%;
 }
@@ -506,4 +431,7 @@ padding-top: 10px;
   color: gray;
 }
 
+@media only screen and (min-width: 600px) {
+  
+}
 

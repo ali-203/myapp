@@ -5,30 +5,29 @@ import "./App.css";
 function App() {
     return (
         <div className="full_main">
-        
-            <div className="main"> 
-        
-
-                 <div className="bitron_main">
+                 <div className="img_logo">
                     <img className="logo_img" src="logo.png" />
+                    </div>
+                    <div className="text_imag">
 
                     <div className="decentrlized">
-                        <h2 className="best">BEST DECENTRALIZED</h2>
-                        <h2 className="community">COMMUNITY SUPPORT FUND ON TRON BLOCKCHAIN</h2>
-                        <h2 className="verified">100% VERIFIED SMART CONTRACT</h2>
-                        <h3 className="daily">18.28% Daily ROI128% <br /> IN 7 DAYS</h3>
-                    </div>
+                        <h2>BEST DECENTRALIZED</h2>
+                        <h2>COMMUNITY SUPPORT FUND ON TRON BLOCKCHAIN</h2>
+                        <h2>100% VERIFIED SMART CONTRACT</h2>
+                        <h3>18.28% Daily ROI128% IN 7 DAYS</h3>
+                    
                     <div className="button_div">
-                        <button className="tele">TELEGRAM</button>
-                        <button className="smart_contract">SMART CONTRACT</button>
+                        <button>TELEGRAM</button>
+                        <button>SMART CONTRACT</button>
                     </div>
-
-                </div>
-                <div className="image_money">
+                    </div>
+                    <div className="image_money">
                     <img src="money.png" />
 
                 </div>
-             </div>
+                </div>
+                
+                
              
             <div className="main2">
                 <div className="global">
@@ -55,7 +54,6 @@ function App() {
                             <h2>Total Dividends</h2>
                         </div>
                     </div>
-
                 </div>
                 <div className="center_towdiv">
                 <div className="forth_div">
